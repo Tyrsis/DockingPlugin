@@ -43,6 +43,7 @@ Undocking Rules
 Other Commands
 ==============
     - Use the command /dock list <dockingZoneName> to list if there are ships in the docking zone.
+    - Use the command /dock validate <dockingZoneName> to see if a docking zone is valid before completing it's beacon.
     
     
     
